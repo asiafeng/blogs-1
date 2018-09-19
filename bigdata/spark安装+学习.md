@@ -4,6 +4,10 @@
 * Spark修炼之道（进阶篇）——Spark入门到精通：第七节 Spark运行原理
 * https://blog.csdn.net/lovehuangjiaju/article/details/48634607
 
+* 用 Spark 构建 Cube
+* http://kylin.apache.org/cn/docs23/tutorial/cube_spark.html
+
+
 * Spark(一): 基本架构及原理
 * http://www.cnblogs.com/tgzhu/p/5818374.html
 * https://blog.csdn.net/ld326/article/details/79369275
